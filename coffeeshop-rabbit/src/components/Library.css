@@ -1,0 +1,68 @@
+.mt-100 {
+    margin-top: 100px;
+    width:1000px;
+    height:70px;
+    padding-left:30px;
+    position: relative;
+    left:54px;
+    font-size: large;
+    font-weight: bolder;
+    text-align: center;
+  }
+ .container2{
+      width:1000px;
+      height:1000px;
+      margin:auto;
+      background-color:#2892D7;  
+    }
+    .jumbotron{
+      border-radius:50px;
+      width:800px;
+      height:150px;
+      position:relative;
+      left:100px;
+      bottom:-100px;
+     
+    }
+    .btn{
+        position: relative;
+       left:660px;
+      bottom:200px;
+ 
+    }
+    .image{
+        width:10px;
+        height:15px;
+    }
+    .bkTitle{
+        position: relative;
+        left:200px;
+        bottom:100px;
+        font-size:xx-large;
+        font-weight:bolder;
+    }
+    .bkAuthor{
+        position: relative;
+        left:200px;
+        bottom:100px;
+        font-size:x-large;
+        font-weight: bold;
+    }
+    .bkGenre{
+        position: relative;
+        left:200px;
+        bottom: 100px;
+    }
+    .avail{
+        position: relative;
+         left:650px;
+         bottom:200px;
+ 
+    }
+    .check{
+        position: relative;
+         left:730px;
+         bottom:250px;
+ 
+    }
+    
