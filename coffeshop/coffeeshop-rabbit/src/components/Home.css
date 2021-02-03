@@ -1,9 +1,15 @@
-.jumbotron{
+
+.Jumbotron{
     position:relative;
-   top:50px;
+   top:200px;
    border-radius: 20px;
 }
 .homebtns{
     position:relative;
-    top:50px;
+    top:300px;
 }
+.coffeebeabg{
+    background-image: url('assets/coffeebea.jpg');
+    background-size: cover;
+    height: 100vh;
+  }

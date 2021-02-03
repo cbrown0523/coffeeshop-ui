@@ -1,23 +1,26 @@
 .listGroup{
-    margin-top: 100px;
+    margin-top: 50px;
     height:70px;
     font-size: large;
     font-weight: bolder;
     text-align: center;
   }
- .Card{
-      width:1000px;
-      height:1000px;
- }
+ 
+    .gradientbg{
+     background-repeat: no-repeat;
+    background-size: cover;
+    height:600px;
+}
     .jumbotron{
       border-radius:10px;
       height:160px;
-     
-     
+      position: relative;
+      top:50px;
+    
     }
     #libBtn{
         position: relative;
-       left:660px;
+       left:900px;
       bottom:200px;
  
     }
@@ -46,14 +49,24 @@
     }
     #avail{
         position: relative;
-         left:650px;
+         left:925px;
          bottom:200px;
  
     }
     #check{
         position: relative;
-         left:730px;
+         left:1000px;
          bottom:250px;
  
     }
+    .booksbg{
 
+        background-size:cover;
+        height: 100vh;
+        background-repeat: no-repeat;
+        position:relative;
+        top:-50px;
+    }
+
+    
+      
