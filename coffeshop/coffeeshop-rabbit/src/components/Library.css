@@ -1,0 +1,59 @@
+.listGroup{
+    margin-top: 100px;
+    height:70px;
+    font-size: large;
+    font-weight: bolder;
+    text-align: center;
+  }
+ .Card{
+      width:1000px;
+      height:1000px;
+ }
+    .jumbotron{
+      border-radius:10px;
+      height:160px;
+     
+     
+    }
+    #libBtn{
+        position: relative;
+       left:660px;
+      bottom:200px;
+ 
+    }
+    .image{
+        width:10px;
+        height:15px;
+    }
+    #bkTitle{
+        position: relative;
+        left:200px;
+        bottom:100px;
+        font-size:xx-large;
+        font-weight:bolder;
+    }
+    #bkAuthor{
+        position: relative;
+        left:200px;
+        bottom:100px;
+        font-size:x-large;
+        font-weight: bold;
+    }
+    #bkGenre{
+        position: relative;
+        left:200px;
+        bottom: 100px;
+    }
+    #avail{
+        position: relative;
+         left:650px;
+         bottom:200px;
+ 
+    }
+    #check{
+        position: relative;
+         left:730px;
+         bottom:250px;
+ 
+    }
+
